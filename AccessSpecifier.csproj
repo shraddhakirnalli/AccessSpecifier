@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>AccessSpecifier.Test8.UniqueElements</StartupObject>
+	  <StartupObject>AccessSpecifier.List.ShipmentTask</StartupObject>
   </PropertyGroup>
 
 </Project>

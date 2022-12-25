@@ -53,6 +53,7 @@ namespace AccessSpecifier
                 Console.ReadKey();
 
             }
+
             class CompareMethod
             {
                 static void Main(string[] args)
@@ -81,6 +82,7 @@ namespace AccessSpecifier
         }
     }
 }
+
     /*class Copy
     {
         static void Main(string[] args)

@@ -26,8 +26,8 @@ namespace AccessSpecifier
                     cons_count++;
                 }
             }
-            Console.WriteLine("Vowels in the string:{0}",vowel_count);
-   }
+            Console.WriteLine("Vowels in the string:{0}",vowel_count); 
+        }
     }
 }
 

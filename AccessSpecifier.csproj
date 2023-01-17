@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>AccessSpecifier.List.ShipmentTask</StartupObject>
+	  <StartupObject>AccessSpecifier.StudentDetails</StartupObject>
   </PropertyGroup>
 
 </Project>
